@@ -1,4 +1,4 @@
-# The simple is just the beginning to open your mind of how everything works in a simple way.
+# The simple is just the beginning to open your mind of how everything works in a simple way. "GuiDeLuccaDev"
 
 '''
 This script is intended to show a "way to validate" 
